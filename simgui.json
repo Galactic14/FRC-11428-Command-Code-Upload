@@ -1,0 +1,55 @@
+{
+  "HALProvider": {
+    "Other Devices": {
+      "SPARK MAX [1]": {
+        "header": {
+          "open": true
+        }
+      },
+      "SPARK MAX [2]": {
+        "header": {
+          "open": true
+        }
+      },
+      "SPARK MAX [3]": {
+        "header": {
+          "open": true
+        }
+      },
+      "SPARK MAX [4]": {
+        "header": {
+          "open": true
+        }
+      },
+      "SPARK MAX [5]": {
+        "header": {
+          "open": true
+        }
+      },
+      "SPARK MAX [6]": {
+        "header": {
+          "open": true
+        }
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/DifferentialDrive[2]": "DifferentialDrive",
+      "/SmartDashboard/Field": "Field2d",
+      "/SmartDashboard/SendableChooser[0]": "String Chooser"
+    }
+  },
+  "NetworkTables": {
+    "Retained Values": {
+      "open": false
+    },
+    "Transitory Values": {
+      "open": false
+    }
+  },
+  "NetworkTables Info": {
+    "visible": true
+  }
+}
